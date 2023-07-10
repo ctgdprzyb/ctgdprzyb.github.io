@@ -16,6 +16,8 @@ p {
 p img {
   display: block;
   margin: 16px auto 0 auto;
+  border: 1px solid #212121;
+  border-radius: 5px;
 }
 
 nav {
@@ -33,6 +35,10 @@ nav a {
 
 nav a:hover {
   color: gray;
+}
+
+footer p {
+  font-size: small;
 }
 
 .icon {
