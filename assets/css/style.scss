@@ -1,0 +1,42 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* removing unnecessary padding due to lack of download links */
+#main_content {
+  padding-top: 0;
+}
+
+p {
+  margin: 4px 0 8px 0;
+  vertical-align: middle;
+}
+
+p img {
+  display: block;
+  margin: 16px auto 0 auto;
+}
+
+nav {
+  color: #fff;
+  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
+
+nav a {
+  color: inherit;
+  font-family: inherit;
+}
+
+nav a:hover {
+  color: gray;
+}
+
+.icon {
+  height: 1em;
+  display: initial;
+  margin: -2px 2px 0 0;
+}
