@@ -21,16 +21,18 @@
 title: Kacper Przybyłko
 email: kacperprzybylko@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Stay awhile and listen...
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It wilasd in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ctgd.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ctgdprzyb
+linkedin_username:  kprzybylko
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
