@@ -3,6 +3,16 @@ layout: page
 title: Projects
 ---
 
+## Product listing
+
+* [Live demo](https://ctgd.xyz/tsttsk-products-render/)
+* [GitHub repo](https://github.com/ctgdprzyb/tsttsk-products-render)
+
+A product listing, pulling and rendering data from [dummyJSON](https://dummyjson.com/). Written for a recruitment task (hence the not-so-stellar looks).
+Complete with pagination and a search bar.
+
+![Screenshot of the landing page](/assets/images/museum_scr.png)
+
 ## Museum landing page
 
 * [Live demo](https://ctgd.xyz/museum_landing_page/)
